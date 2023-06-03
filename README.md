@@ -40,3 +40,11 @@ This will start the Flask server and you can access the app at `http://localhost
 ### Contributing
 
 If you would like to contribute to this project, please create a pull request with your changes.
+
+### Interface
+
+#### The interface of the web is shown below:
+
+![Health Coah GPT](Screenshots\Readme1.jpg)
+
+![Result Page](Screenshots\Readme2.jpg)
