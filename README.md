@@ -45,6 +45,6 @@ If you would like to contribute to this project, please create a pull request wi
 
 #### The interface of the web is shown below:
 
-![Health Coah GPT](Screenshots\Readme1.jpg)
+![Health Coah GPT](Screenshots/Readme1.jpg)
 
-![Result Page](Screenshots\Readme2.jpg)
+![Result Page](Screenshots/Readme2.jpg)
