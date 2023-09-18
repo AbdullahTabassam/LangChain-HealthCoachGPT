@@ -1,6 +1,6 @@
 # OpenAI Lang Chain Model
 
-This repository contains a language chain model that utilizes OpenAI API key to create a large language model. The model can be used to generate custom diet and workout plans for users. The model is integrated into a Flask app and a website.
+This repository contains a lang chain model that utilizes OpenAI API key to create a large language model. The model can be used to generate custom diet and workout plans for users. The model is integrated into a Flask app and a website.
 
 ## Getting Started
 
